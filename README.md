@@ -1,5 +1,7 @@
 # SMS Spam Detection with TensorFlow Lite
 
+![SMS Spam Classifier Architecture](./assets/sms-spam-classifier-tflite.png)
+
 A machine learning project that trains a deep learning model to classify SMS messages as spam or legitimate (ham), then converts it to TensorFlow Lite format for mobile deployment.
 
 ## 📋 Overview
@@ -7,7 +9,7 @@ A machine learning project that trains a deep learning model to classify SMS mes
 This project implements a bidirectional LSTM-based neural network for SMS spam detection. The model is trained on the SMS Spam Collection Dataset and optimized for mobile deployment using TensorFlow Lite, achieving high accuracy while maintaining a small model size (< 1MB).
 
 ---
-#### Open in Google Colab: https://colab.research.google.com/drive/11dHo8YzzVmBlmZQoTazUWjdevwk6auS9?usp=sharing
+#### Open in Google Colab: [here](https://colab.research.google.com/drive/11dHo8YzzVmBlmZQoTazUWjdevwk6auS9?usp=sharing)
 ---
 
 ## 🎯 Features
