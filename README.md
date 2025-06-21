@@ -73,7 +73,7 @@ sms-spam-tflite-model/
 ├── tflite_sms_spam_model.ipynb    # Main training notebook
 ├── data/
 │   └── spam.csv                   # SMS dataset
-├── assets/                        # Additional assets (empty)
+├── assets/                        # Additional assets (for README)
 └── README.md                      # This file
 ```
 
